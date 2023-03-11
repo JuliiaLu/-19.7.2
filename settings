@@ -1,0 +1,4 @@
+valid_email = 'bonichka_66@mail.ru'
+valid_password = 'LuLu8912606'
+invalid_email = 'petrov@mail,ru'
+invalid_password = '12354'
